@@ -1,0 +1,7 @@
+{
+    "prefix": ".",
+    "everyoneMention": true,
+    "hostedBy": true,
+    "token": "token",
+    "logchannel": "channel-id"
+}
