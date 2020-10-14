@@ -1,1 +1,8 @@
+# Install the following npmjs packages.
 
+npm install discord.js
+npm install discord-backup
+npm install discord-giveaways
+npm install log-symbols
+npm install fs
+npm install discord.js-commando
